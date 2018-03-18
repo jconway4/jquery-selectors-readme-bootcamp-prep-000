@@ -16,5 +16,5 @@ divSelector = function() {
 };
 
 firstListItem = function() {
-  return $('.pics');
+  return $('.pics:last ');
 };
