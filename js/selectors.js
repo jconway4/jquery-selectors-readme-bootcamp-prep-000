@@ -4,5 +4,5 @@ paragraphSelector = function() {
 };
 
 lastImageSelector = function() {
-  
+  imagesArray = $('img');
 };
