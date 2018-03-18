@@ -12,5 +12,5 @@ ninjaBabySelector = function() {
 };
 
 divSelector = function() {
-  return $('#div');
+  return $('.pics');
 };
