@@ -10,3 +10,7 @@ lastImageSelector = function() {
 ninjaBabySelector = function() {
   return $('#baby-ninja');
 };
+
+divSelector = function() {
+  
+};
